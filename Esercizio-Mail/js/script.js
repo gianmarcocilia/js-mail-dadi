@@ -22,4 +22,5 @@ if (access) {
 // OUTPUT
 console.log(message);
 
-document.querySelector(".div").innerHTML = message;
+document.querySelector("div").innerHTML = message;
+
